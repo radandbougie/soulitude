@@ -1,0 +1,49 @@
+{
+  font-family: 'Arial', sans-serif;
+  color: #ff9700;
+  line-height: 1.5;
+}
+
+body {
+    background-color: #ff9700;
+}
+
+h1 {
+  text-align: center;
+  color: #384760;
+  font-family: 'Arial', sans-serif;
+}
+
+input {
+  text-align: center;
+  padding: .5em .6em;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-shadow: inset 0 1px 3px #ddd;
+  border-radius: 4px;
+  vertical-align: middle;
+  box-sizing: border-box;
+  width:500px;
+}
+
+form {
+  margin-bottom:10px;
+}
+
+button {
+  height: 31px;
+  width: 110px;
+  text-align: center;
+  color: #562751;
+  font-size: 1rem;
+  font-weight: 200;
+  background: #d7efdc;
+  /* border: 1px solid #562751; */
+  border-radius: 4px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+  border: 2px solid #562751;
+  color: #562751;
+}
